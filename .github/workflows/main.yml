@@ -27,4 +27,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: lennartverbruggen/frontend-cicd:latest
+          tags: lennartverbruggen/backend-cicd
